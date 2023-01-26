@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 975681a0e7576ca468c91167ad4403b1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 55a15fcf43268484cb47fdd747c5b4c6, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Substances/wood.sbsar
